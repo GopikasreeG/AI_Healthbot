@@ -10,7 +10,7 @@ st.set_page_config(
 st.title("AI Health & Fitness Planner")
 st.markdown("Generate personalized dietary and fitness plans and goals.")
 
-groq_api_key = "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"
+groq_api_key = "your_key"
 
 # User Inputs
 st.header("👤 Your Profile")
